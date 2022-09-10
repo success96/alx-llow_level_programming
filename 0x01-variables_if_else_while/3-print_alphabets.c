@@ -5,13 +5,9 @@
 #include <time.h>
 
 /**
- *
  *main – main block
- *
- *Description: Get a random number
- *
+ *Description: print alphabets in lower case then in upper case
  *Return: 0
- *
  */
 int main(void)
 
