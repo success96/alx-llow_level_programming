@@ -19,7 +19,7 @@ int main(void)
 
 	for (low = 'a'; low <= 'z'; low++)
 	{
-		if (low != w && low != q)
+		if (low != e && low != q)
 			putchar(low);
 	}
 	putchar('\n');
