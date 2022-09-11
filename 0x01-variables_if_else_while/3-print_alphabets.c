@@ -1,13 +1,9 @@
 #include <stdio.h>
-
 #include <stdlib.h>
-
 #include <time.h>
-
 /**
- *
- * main – main block
- * Description: Get a random number and check its last digit, compare it with 5 and verify its valuee
+ * main - main block
+ * Description: Get a random number and check its last digit, compare it with 5
  * Return: 0
  */
 int main(void)
@@ -21,5 +17,4 @@ int main(void)
 		putchar(low);
 	putchar('\n');
 	return (0);
-
 }
